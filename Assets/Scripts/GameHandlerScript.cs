@@ -45,7 +45,7 @@ public class GameHandlerScript : MonoBehaviour
             //Check if there's already accounts registered, if none, then registration panel will popup.
             if (usersContainer.students.Count <= 0)
             {
-                Debug.Log("eyyy");
+                Debug.Log("eyywwy");
                 AnimationManager.ZoomIn(SomePanel);
             }else{
                
